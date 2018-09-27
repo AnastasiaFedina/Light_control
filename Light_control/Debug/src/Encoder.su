@@ -1,0 +1,2 @@
+core_cm3.h:930:22:NVIC_EnableIRQ	16	static
+Encoder.c:7:6:encoder_init	32	static
